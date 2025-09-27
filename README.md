@@ -18,12 +18,13 @@ Welcome to the **Smart Home Automation** project! This repository contains an Ar
 
 ## Installation & Setup 💻
 1. Clone the repository:
+   
 git clone https://github.com/PrateekSinghRajput/Smart_Home_Automation.git
-2. Open `main.ino` in Arduino IDE.
-3. Configure pins and settings in `config.h` according to your hardware.
-4. Connect relays and sensors to your Arduino board as per configuration.
-5. Upload the code to the Arduino board.
-6. Power the system and start controlling your smart home!
+3. Open `main.ino` in Arduino IDE.
+4. Configure pins and settings in `config.h` according to your hardware.
+5. Connect relays and sensors to your Arduino board as per configuration.
+6. Upload the code to the Arduino board.
+7. Power the system and start controlling your smart home!
 
 ## Usage 🎛️
 - Use the serial monitor to view appliance status and debug messages.
