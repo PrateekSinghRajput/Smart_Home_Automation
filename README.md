@@ -17,8 +17,7 @@ Welcome to the **Smart Home Automation** project! This repository contains an Ar
 - Optional GSM or Bluetooth modules for wireless control 📶
 
 ## Installation & Setup 💻
-1. Clone the repository:
-   
+1. Clone the repository:  
 git clone https://github.com/PrateekSinghRajput/Smart_Home_Automation.git
 3. Open `main.ino` in Arduino IDE.
 4. Configure pins and settings in `config.h` according to your hardware.
